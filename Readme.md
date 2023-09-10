@@ -7,3 +7,14 @@ Na semana do dia 04 a 08 de setembro a [Alura](https://grupoalura.notion.site/Im
 4. Manipulação de planilhas com Python/Pandas e o ChatGPT
 5. Carreiras em Análise de Dados e Inteligência Artificial
 ---
+**Ferramentas**
+
+Python 3.10.12
+  - Pandas	1.5.3
+  - Numpy	1.23.5
+  - Matplotlib	3.7.1
+  - Seaborn	0.12.2
+  - requests	2.31.0
+  - BeautifulSoup4	4.11.2
+  - textblob	0.17.1
+  - WordCloud	1.9.2
