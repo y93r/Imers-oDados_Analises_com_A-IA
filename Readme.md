@@ -18,3 +18,8 @@ Python 3.10.12
   - BeautifulSoup4	4.11.2
   - textblob	0.17.1
   - WordCloud	1.9.2
+---
+- **Limpeza de dados:** excluir valores duplicados, linhas sem valores, transformar colunas do tipo texto em numérica.
+- **Transformação de Dados:** calcular a % de desconto, web scraping para descobrir a cotação da rúpia indiana para ao real, criar novas colunas de categoria e subcategoria.
+- **Análise de Sentimento:** identificação e categorização das emoções  expressas na coluna comentário da avaliação.
+- **Visualização gráfica:** utilizando gráficos de barras, pizza, empilhado, boxplot, nuvem de palavras e correlação foi possível tirar insights interessantes.
